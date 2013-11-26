@@ -21,7 +21,7 @@
 	</style>
 	<script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
-	<script type="text/javascript" src="RqlConnector.js"></script>
+	<script type="text/javascript" src="rqlconnector/Rqlconnector.js"></script>
 	<script type="text/javascript">
 		var _ElementGuid = '<%= session("treeguid") %>';
 		var LoginGuid = '<%= session("loginguid") %>';
